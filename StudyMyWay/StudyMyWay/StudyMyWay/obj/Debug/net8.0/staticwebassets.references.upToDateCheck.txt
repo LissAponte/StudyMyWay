@@ -1,1 +1,5 @@
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\staticwebassets.build.json

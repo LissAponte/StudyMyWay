@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyMyWay.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f682d234e0d7516cd2a859645f77b98157ed6f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f29897bf19d29fe499173d77b9a1029b794cfc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyMyWay.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyMyWay.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
