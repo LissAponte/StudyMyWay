@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\timer\\timerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\timer\\timerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\progresstracker\\progresstrackerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\progresstracker\\progresstrackerdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\studysessionresults.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\studysessionresults.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\studysession.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\studysession.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\reviewselection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\reviewselection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\deck.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\deck.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\decks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\decks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\flashcards\\flashcardsdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\flashcards\\flashcardsdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\notes\\note.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\notes\\note.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\initialpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\initialpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\notes\\noteperstudyroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\notes\\noteperstudyroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\initialregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\initialregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\notes\\notedashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\notes\\notedashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\studyrooms\\studyroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\studyrooms\\studyroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\studyrooms\\studyroomdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\studyrooms\\studyroomdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\components\\pages\\initiallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\components\\pages\\initiallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimerDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Timer\\TimerDashboard.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Timer\\TimerDashboard.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Timer\\TimerDashboard.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Timer\\TimerDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:17:06.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgressTrackerDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\ProgressTracker\\ProgressTrackerDashboard.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\ProgressTracker\\ProgressTrackerDashboard.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\ProgressTracker\\ProgressTrackerDashboard.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\ProgressTracker\\ProgressTrackerDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:16:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudySessionResults.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySessionResults.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySessionResults.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySessionResults.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySessionResults.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:15:08.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudySession.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySession.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySession.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySession.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\StudySession.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:14:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewSelection.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\ReviewSelection.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\ReviewSelection.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\ReviewSelection.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\ReviewSelection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:14:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Card.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Card.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Card.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Card.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:05:39.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Deck.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Deck.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Deck.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Deck.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:05:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Decks.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Decks.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Decks.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Decks.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\Decks.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:05:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlashcardsDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\FlashcardsDashboard.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\FlashcardsDashboard.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\FlashcardsDashboard.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Flashcards\\FlashcardsDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T19:04:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Note.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\Note.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\Note.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\Note.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\Note.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T18:49:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotePerStudyRoom.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NotePerStudyRoom.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NotePerStudyRoom.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NotePerStudyRoom.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NotePerStudyRoom.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T18:49:38.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NoteDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NoteDashboard.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NoteDashboard.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NoteDashboard.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Notes\\NoteDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T18:49:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudyRoom.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoom.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoom.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoom.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoom.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T18:48:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudyRoomDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoomDashboard.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoomDashboard.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoomDashboard.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\StudyRooms\\StudyRoomDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:42:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:42:09.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Register.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:41:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InitialLogin.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialLogin.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialLogin.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialLogin.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:33:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InitialRegistration.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialRegistration.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialRegistration.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialRegistration.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialRegistration.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:33:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InitialPage.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialPage.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialPage.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialPage.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\InitialPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:26:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T17:25:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

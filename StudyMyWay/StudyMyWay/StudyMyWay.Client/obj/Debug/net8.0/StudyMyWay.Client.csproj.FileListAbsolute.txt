@@ -1031,6 +1031,6 @@ C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\Study
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\refint\StudyMyWay.Client.dll
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\StudyMyWay.Client.pdb
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\ref\StudyMyWay.Client.dll
-C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\64lcj9w5kw-t0qfqsj81l.gz
-C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\izpgt0df2v-wlvb5gq6rs.gz
-C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\i5dwub8aj1-z4tff21b4w.gz
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\64lcj9w5kw-8ajjyff00e.gz
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\izpgt0df2v-ii9apzrsnv.gz
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay.Client\obj\Debug\net8.0\compressed\i5dwub8aj1-hi8nmj4q1e.gz

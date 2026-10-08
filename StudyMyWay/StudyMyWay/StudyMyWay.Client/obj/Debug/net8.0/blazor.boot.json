@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "StudyMyWay.Client",
   "resources": {
-    "hash": "sha256-lUr7cqiQWqt7O+6eZB1MvNGFEt2JWSpTwgUClNjogpA=",
+    "hash": "sha256-StuHxbQYy88MURnNlPwcELFfcdF7oWh9ZsPGWabMYYg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-K9gNrsN9UmPqLs6J/FrkiKpmkVGnHjjqUsc7YGvesCY=",
       "netstandard.wasm": "sha256-4emjlXLM9qW3t2tlII20SDylBgG4ueI0wy9nh5FMd8g=",
       "System.Private.CoreLib.wasm": "sha256-2DN4v7I/tabltDEPdIO8sDBB0tY8zOm+0CvHbMssXW4=",
-      "StudyMyWay.Client.wasm": "sha256-g1RLAlfrlBHP2GW6grgcqJMaurG76ENmGodZxRRB8gU="
+      "StudyMyWay.Client.wasm": "sha256-YNZuXKrZMDlduomUvH8CBEi6r49RYpVJdyrZi075jzE="
     },
     "pdb": {
-      "StudyMyWay.Client.pdb": "sha256-PAY1TRCUfQTjvxD+DS4YyMn0Py12nNSWOFbJxkpdP/g="
+      "StudyMyWay.Client.pdb": "sha256-qiMVGsg9j8k3lKpGC9wniP98BcuZSK9fGL6CgG+oU50="
     }
   },
   "cacheBootResources": true,

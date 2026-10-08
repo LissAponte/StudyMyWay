@@ -28,8 +28,84 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/Deck.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXERlY2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/Decks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXERlY2tzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/FlashcardsDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXEZsYXNoY2FyZHNEYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/ReviewSelection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXFJldmlld1NlbGVjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/StudySession.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXFN0dWR5U2Vzc2lvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Flashcards/StudySessionResults.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXFN0dWR5U2Vzc2lvblJlc3VsdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/InitialLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbml0aWFsTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/InitialPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbml0aWFsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/InitialRegistration.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbml0aWFsUmVnaXN0cmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Notes/Note.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3Rlc1xOb3RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Notes/NoteDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3Rlc1xOb3RlRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Notes/NotePerStudyRoom.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3Rlc1xOb3RlUGVyU3R1ZHlSb29tLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/ProgressTracker/ProgressTrackerDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9ncmVzc1RyYWNrZXJcUHJvZ3Jlc3NUcmFja2VyRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/StudyRooms/StudyRoom.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkeVJvb21zXFN0dWR5Um9vbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/StudyRooms/StudyRoomDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdHVkeVJvb21zXFN0dWR5Um9vbURhc2hib2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Timer/TimerDashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaW1lclxUaW1lckRhc2hib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Routes.razor]
