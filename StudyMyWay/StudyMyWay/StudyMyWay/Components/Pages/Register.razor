@@ -1,5 +1,23 @@
-﻿<h3>Register</h3>
+﻿@page "/registerAcc"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+@* add css *@
+
+<div name="main">
+    <container name="1">
+        <h3>Please register here!</h3>
+        
+        <textarea name="username" placeholder="Username..."></textarea>
+        <textarea name="email" placeholder="Email..."></textarea>
+        <textarea name="password" placeholder="Password..."></textarea>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/initial-register")'>Register</button>"
+
+
+        <p>If you already have an account go to Login instead!</p>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/loginAcc")'>Login</button>
+    </container>
+    </div>
 
 @code {
-
+    //code logic for auth will be handled in week 8 or 9
 }

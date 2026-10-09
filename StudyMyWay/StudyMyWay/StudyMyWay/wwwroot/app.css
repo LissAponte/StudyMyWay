@@ -27,3 +27,39 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+:root {
+    /* Palette */
+    --rose-100: #d798a3;
+    --rose-200: #9b666b;
+    --rose-300: #70494a;
+    --rose-400: #4d3230;
+    --rose-500: #2c1f1b;
+    /* Semantic colors */
+    --bg: #fff;
+    --surface: var(--rose-100);
+    --muted: #f6f2f2;
+    --text: var(--rose-500);
+    --accent: var(--rose-200);
+    --accent-strong: var(--rose-300);
+    /* Elevation */
+    --elevation-1: 0 1px 2px rgba(44,31,27,0.06);
+    --elevation-2: 0 6px 18px rgba(44,31,27,0.12);
+    /* Spacing */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 40px;
+    /* Typography */
+    --font-sans: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --radius-sm: 6px;
+    --radius-md: 12px;
+}
+
+:global(body) {
+    background-color: #d798a3;
+    margin: 0;
+    min-height: 100vh;
+    color: var(--rose-500);
+}

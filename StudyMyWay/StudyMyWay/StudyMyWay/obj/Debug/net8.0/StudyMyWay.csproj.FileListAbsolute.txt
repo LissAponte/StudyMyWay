@@ -64,3 +64,5 @@ C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\Study
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\obj\Debug\net8.0\StudyMyWay.pdb
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\obj\Debug\net8.0\StudyMyWay.genruntimeconfig.cache
 C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\obj\Debug\net8.0\ref\StudyMyWay.dll
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\japonterivera\workspace\Capstone\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\StudyMyWay\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css

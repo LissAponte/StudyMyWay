@@ -1,4 +1,25 @@
-﻿<h3>StudyRoomDashboard</h3>
+﻿@page "/study-room-dashboard"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+@* add css *@
+
+
+<div class="main">
+    <h3>StudyRoomDashboard</h3>
+    <p>No study rooms have been created</p>
+
+    <container name="tabs">
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/home")'>Homepage</button>
+        @* <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Browser</button> *@
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/note-dashboard")'>Notes</button>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/progress-tracker-dashboard")'>Progress Tracker</button>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/timer-dashboard")'>Timers</button>
+
+
+    </container>
+</div>
+
+
 
 @code {
 

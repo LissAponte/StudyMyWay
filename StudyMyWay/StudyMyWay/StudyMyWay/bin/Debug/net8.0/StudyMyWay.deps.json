@@ -8,11 +8,23 @@
     ".NETCoreApp,Version=v8.0": {
       "StudyMyWay/1.0.0": {
         "dependencies": {
+          "Blazor.Bootstrap": "4.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "8.0.22",
           "StudyMyWay.Client": "1.0.0"
         },
         "runtime": {
           "StudyMyWay.dll": {}
+        }
+      },
+      "Blazor.Bootstrap/4.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.22"
+        },
+        "runtime": {
+          "lib/net8.0/BlazorBootstrap.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
         }
       },
       "Microsoft.AspNetCore.Authorization/8.0.22": {
@@ -241,6 +253,7 @@
       "System.IO.Pipelines/8.0.0": {},
       "StudyMyWay.Client/1.0.0": {
         "dependencies": {
+          "Blazor.Bootstrap": "4.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.22"
         },
         "runtime": {
@@ -257,6 +270,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Blazor.Bootstrap/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fv1geGb0BZdB8LlQqjZnslExSqvSwz7sALGhx++8+yY/JDTyy/Pqqz78l/STZ5ZT5sZQ8hNiTEZmiQYEHcP2wQ==",
+      "path": "blazor.bootstrap/4.0.0",
+      "hashPath": "blazor.bootstrap.4.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/8.0.22": {
       "type": "package",

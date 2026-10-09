@@ -1,4 +1,13 @@
-﻿<h3>TimerDashboard</h3>
+﻿@page "/timer-dashboard"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+@* add css *@
+
+<div name="main">
+    <h3>Timer Dashboard</h3>
+
+    <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/home")'>Back to homepage</button>
+</div>
 
 @code {
 

@@ -1,5 +1,20 @@
-﻿<h3>Login</h3>
+﻿@page "/loginAcc"
+@inject NavigationManager Nav
+@rendermode InteractiveServer
+@* add css *@
 
+<div name="main">
+    <container name="1">
+        <h3>Please login here!</h3>
+        
+        <textarea name="username/email" placeholder="Username/Email..."></textarea>
+        <textarea name="password" placeholder="Password..."></textarea>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/initial-login")'>Login</button>
+
+        <p>If you don't have an account go to Register instead!</p>
+        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/registerAcc")'>Back to register!</button>
+    </container>
+</div>
 @code {
 
 }
