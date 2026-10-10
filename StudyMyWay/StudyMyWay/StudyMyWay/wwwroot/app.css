@@ -36,7 +36,7 @@ h1:focus {
     --rose-400: #4d3230;
     --rose-500: #2c1f1b;
     /* Semantic colors */
-    --bg: #fff;
+    --bg: #d798a3;
     --surface: var(--rose-100);
     --muted: #f6f2f2;
     --text: var(--rose-500);
@@ -57,9 +57,59 @@ h1:focus {
     --radius-md: 12px;
 }
 
-:global(body) {
-    background-color: #d798a3;
+body {
+    font-family: var(--font-sans);
+    background-color: var(--bg);
+    color: var(--text);
     margin: 0;
-    min-height: 100vh;
+    padding: 0;
+}
+
+.btn-primary, .fm-btn.fm-btn-primary {
     color: var(--rose-500);
+    background-color: var(--rose-200);
+    border: 2px solid var(--rose-500);
+    padding: 20px 24px;
+    margin: auto;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+   
+}
+
+.fm-buttons {
+    left: 150px;
+    background-color: var(--rose-300);
+
+}
+
+.fm-main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+    background-color: var(--rose-200);
+    tab-size: 400;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+p {
+    text-align: center;
+    height: 1.5rem;
+
+}
+container {
+   
+    
+}
+
+ul{
+    list-style-type:none ;
+    padding: 0;
+    margin: 0;
 }

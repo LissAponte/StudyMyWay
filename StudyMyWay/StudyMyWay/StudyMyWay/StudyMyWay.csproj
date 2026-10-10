@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Components\Pages\Home.razor.css" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\StudyMyWay.Client\StudyMyWay.Client.csproj" />
     <PackageReference Include="Blazor.Bootstrap" Version="4.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.22" />

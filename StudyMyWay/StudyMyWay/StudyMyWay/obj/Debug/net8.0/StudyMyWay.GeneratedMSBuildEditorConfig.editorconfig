@@ -60,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGFzaGNhcmRzXFN0dWR5U2Vzc2lvblJlc3VsdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/InitialLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbml0aWFsTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -119,7 +123,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-px1m75u2ur
-
-[C:/Users/japonterivera/workspace/Capstone/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/StudyMyWay/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-j9p4y7860x

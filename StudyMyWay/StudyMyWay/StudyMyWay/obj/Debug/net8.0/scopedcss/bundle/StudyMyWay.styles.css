@@ -19,11 +19,3 @@
         right: 0.75rem;
         top: 0.5rem;
     }
-/* _content/StudyMyWay/Components/Pages/Home.razor.rz.scp.css */
-/* global body background from a component-scoped CSS file */
-body[b-j9p4y7860x] {
-    background-color: #d798a3;
-    margin: 0;
-    min-height: 100vh;
-    color: var(--rose-500);
-}

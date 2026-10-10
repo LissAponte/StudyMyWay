@@ -3,26 +3,35 @@
 @inject NavigationManager Nav
 @rendermode InteractiveServer
 
-<div class="bg-purple">
 
 
-
+<main class="fm-main">      
    
         <h3>Homepage</h3>
-        <p>No study rooms have been created yet</p>
-        
-    
-    <container name="tabs">
-        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Study Rooms</button>
-        @* <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Browser</button> *@
-        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/note-dashboard")'>Notes</button>
-        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/progress-tracker-dashboard")'>Progress Tracker</button>
-        <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/timer-dashboard")'>Timers</button>
+   
+     
+</main>
 
-
+<container>
+    <p>No study rooms have been created yet</p>
     </container>
 
+<div class="fm-buttons fm-purple">
+    <ul>
+        <li>
 
+            <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Study Rooms</button>
+        </li>
+        <li>
+            browser button place holder @* <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Browser</button> *@
+            </li>
+        <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/note-dashboard")'>Notes</button></li>
+        
+        <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/progress-tracker-dashboard")'>Progress Tracker</button></li>
+        <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/timer-dashboard")'>Timers</button></li>
+       
+    </ul>
+   
 </div>
 
 
