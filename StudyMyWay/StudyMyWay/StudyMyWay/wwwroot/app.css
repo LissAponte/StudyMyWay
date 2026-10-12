@@ -80,18 +80,17 @@ body {
 }
 
 .fm-buttons {
-    left: 150px;
     background-color: var(--rose-300);
-
+    width: 220px;
+    border-right: 1px solid rgba(0,0,0,0.04);
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    flex-shrink: 0;
+    box-shadow: 2px 0 12px rgba(94,70,144,0.05);
 }
 
-.fm-main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 16px;
-    background-color: var(--rose-200);
-    tab-size: 400;
-}
+
 
 h3 {
     text-align: center;
