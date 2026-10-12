@@ -57,6 +57,11 @@ h1:focus {
     --radius-md: 12px;
 }
 
+
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: var(--font-sans);
     background-color: var(--bg);
@@ -65,35 +70,38 @@ body {
     padding: 0;
 }
 
+
+
 .btn-primary, .fm-btn.fm-btn-primary {
     color: var(--rose-500);
     background-color: var(--rose-200);
     border: 2px solid var(--rose-500);
-    padding: 20px 24px;
-    margin: auto;
-    border-radius: 8px;
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 15px;
+    gap: 10vh;
     cursor: pointer;
-   
+    text-align: center;
 }
 
 .fm-buttons {
     background-color: var(--rose-300);
-    width: 220px;
-    border-right: 1px solid rgba(0,0,0,0.04);
     display: flex;
-    flex-direction: column;
-    padding: 20px 0;
-    flex-shrink: 0;
-    box-shadow: 2px 0 12px rgba(94,70,144,0.05);
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 10vw;
+    padding-top: var(--space-md);
+}
+
+.title {
+    text-align: center;
+    padding-top: var(--space-xl);
 }
 
 
-
 h3 {
-    text-align: center;
+  
     font-size: 2rem;
 }
 
@@ -102,13 +110,11 @@ p {
     height: 1.5rem;
 
 }
-container {
-   
-    
-}
 
-ul{
-    list-style-type:none ;
+
+ul {
+    list-style-type: none;
     padding: 0;
     margin: 0;
 }
+
