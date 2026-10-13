@@ -40,4 +40,7 @@ IMongoDatabase database = dbClient.GetDatabase("studymyway");
 // Will focus on db use later on, just want to make sure it connects first
 var collection = database.GetCollection<BsonDocument>("StudyRooms");
 
+//var filter = Builders<BsonDocument>.Filter.Eq("Study_Room_Name","Math" );
+//var doc = collection.Find(filter).FirstOrDefault();
+//Console.WriteLine(doc.ToString());
 app.Run();

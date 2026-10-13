@@ -76,23 +76,20 @@ body {
     color: var(--rose-500);
     background-color: var(--rose-200);
     border: 2px solid var(--rose-500);
+    display: flex;
+    align-items: center;
+    align-content: start;
+    justify-content: flex-start;
+    height: 10vh;
     width: 10vw;
-    height: 5vh;
+    padding-top: var(--space-md);
     border-radius: 15px;
-    gap: 10vh;
+    gap: 100vh;
     cursor: pointer;
     text-align: center;
 }
 
-.fm-buttons {
-    background-color: var(--rose-300);
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    height: 100vh;
-    width: 10vw;
-    padding-top: var(--space-md);
-}
+
 
 .title {
     text-align: center;
@@ -116,5 +113,6 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    gap: 20rem;
 }
 
