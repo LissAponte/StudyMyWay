@@ -1,4 +1,7 @@
 using StudyMyWay.Components;
+using MongoDB.Bson;
+using MongoDB.Driver;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,5 +33,11 @@ app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(StudyMyWay.Client._Imports).Assembly);
+
+var dbClient = new MongoDB.Driver.MongoClient("mongodb://localhost:27017");
+IMongoDatabase database = dbClient.GetDatabase("studymyway");
+
+// Will focus on db use later on, just want to make sure it connects first
+var collection = database.GetCollection<BsonDocument>("StudyRooms");
 
 app.Run();

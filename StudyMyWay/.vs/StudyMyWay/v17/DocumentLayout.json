@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|c:\\users\\japonterivera\\workspace\\capstone\\studymyway\\studymyway\\studymyway\\studymyway\\studymyway\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{18959C45-4455-456B-BB7C-2EED7BD2CBD3}|StudyMyWay\\StudyMyWay\\StudyMyWay.csproj|solutionrelative:studymyway\\studymyway\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -39,25 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Program.cs",
+              "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Program.cs",
+              "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Program.cs",
+              "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:51:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\wwwroot\\app.css",
               "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\wwwroot\\app.css",
               "RelativeToolTip": "StudyMyWay\\StudyMyWay\\wwwroot\\app.css",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwGIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-10-09T17:02:43.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\japonterivera\\workspace\\Capstone\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "StudyMyWay\\StudyMyWay\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-09T00:08:54.49Z",
               "EditorCaption": ""
