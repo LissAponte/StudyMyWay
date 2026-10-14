@@ -3,11 +3,21 @@
 @rendermode InteractiveServer
 @* add css *@
 
-<div name="main">
-    <h3>ProgressTrackerDashboard</h3>
 
-    <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/")'>Back to homepage</button>
-</div>
+<main>
+    <header class="title">
+        <h3>Progress Tracker Dashboard</h3>
+    </header>
+
+    <ul>
+        <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/")'>Back to Homepage</button></li>
+    </ul>
+    
+
+    <container>
+        <p>No trackers have been created yet</p>
+    </container>
+</main>
 
 @code {
 

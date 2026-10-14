@@ -20,7 +20,7 @@
                 <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Study Rooms</button>
             </li>
             <li>
-               <button class="btn btn-primary" @onclick='OpenExternalPopUp'>Browser</button> 
+               @* <button class="btn btn-primary" @onclick='OpenExternalPopUp'>Browser</button>  *@
             </li>
             <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/note-dashboard")'>Notes</button></li>
 
@@ -32,6 +32,7 @@
 
 
 
+
     <container>
         <p>No study rooms have been created yet</p>
     </container>
@@ -39,9 +40,12 @@
 </main>
 
 @code {
-    private Task OpenExternalPopUp() {
+    // private Task OpenExternalPopUp()
+    // {
+    //         const string features = "width=800,height=600,top=100,left=100,resizable=yes,scrollbars=yes,status=yes";
+    //         return DirectoryBrowserServiceExtensions.Open("www.google.com", "_blank", features);fix
         
-    }
+    // }
 }
 
 @* if new user *@

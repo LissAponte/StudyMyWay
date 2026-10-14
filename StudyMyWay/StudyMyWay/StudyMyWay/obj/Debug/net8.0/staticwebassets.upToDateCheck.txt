@@ -1,1 +1,2 @@
+wwwroot\js\Browser.js
 wwwroot\app.css
