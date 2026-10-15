@@ -1,7 +1,8 @@
 ﻿@page "/"
 @inject NavigationManager Nav
+@inject StudyMyWay.Components.Pages.Service.BrowserService BrowserService;
 @rendermode InteractiveServer
-
+@using System.Threading.Tasks;
 
 <PageTitle>Homepage</PageTitle>
 
@@ -20,7 +21,7 @@
                 <button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/study-room-dashboard")'>Study Rooms</button>
             </li>
             <li>
-               @* <button class="btn btn-primary" @onclick='OpenExternalPopUp'>Browser</button>  *@
+               <button class="btn btn-primary" @onclick='OpenExternalPopUp'>Browser</button> 
             </li>
             <li><button class="btn btn-primary" @onclick='() => Nav.NavigateTo("/note-dashboard")'>Notes</button></li>
 
@@ -40,12 +41,11 @@
 </main>
 
 @code {
-    // private Task OpenExternalPopUp()
-    // {
-    //         const string features = "width=800,height=600,top=100,left=100,resizable=yes,scrollbars=yes,status=yes";
-    //         return DirectoryBrowserServiceExtensions.Open("www.google.com", "_blank", features);fix
-        
-    // }
+    private async Task OpenExternalPopUp()
+    {
+        const string features = "noopener,noreferrer,width=900,height=700";
+        await BrowserService.Open("https://www.google.com","_blank", features);
+    }
 }
 
 @* if new user *@
